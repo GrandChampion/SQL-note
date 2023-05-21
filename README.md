@@ -1,6 +1,6 @@
 # SQL note
 
-## Key의 종류 ()
+## Key의 종류 (Super key⊇Candidate key⊇Primary key)
 ### Super key
 * 각 row들을 유일하게 특정할 수 있는 attribute의 집합.
 * 테이블에서 각 super key의 값과 row는 1:1 관계이다.
